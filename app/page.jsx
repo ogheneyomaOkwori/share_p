@@ -8,7 +8,7 @@ const Home = () => {
         <br className="max-md:hidden" />
         <span className="orange_gradient text-center">AI-Powered Prompts</span>
       </h1>
-      <p classNam="desc text-center">
+      <p className="desc text-center">
         ShareP is an open-source AI prompting tool for modern the modern
         world to discover, create and share creative prompts.
       </p>
